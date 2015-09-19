@@ -1,0 +1,41 @@
+1) Dataset:
+Predictive analytics in cricket, Simafore LLC.2014
+http://www.simafore.com/predictive-analytics-cricket-statistics-data
+
+2) All code files and libraries
+
+Code Files:
+Java Source Codes:
+src/com/cricket/CricketAttribute.java
+src/com/cricket/CricketAttributeController.java
+
+Configuration files:
+WEB-INF\web.xml
+WEB-INF\IsProject-servlet.xml
+
+JSP(view) pages
+WEB-INF\jsp\home.jsp
+WEB-INF\jsp\result.jsp
+
+Library files
+WEB-INF\lib\commons-logging-1.2.jar
+WEB-INF\lib\jstl-1.2.jar
+WEB-INF\lib\spring-beans-3.2.9.RELEASE.jar
+WEB-INF\lib\spring-context-3.2.9.RELEASE.jar
+WEB-INF\lib\spring-core-3.2.9.RELEASE.jar
+WEB-INF\lib\spring-expression-3.2.9.RELEASE.jar
+WEB-INF\lib\spring-web-3.2.9.RELEASE.jar
+WEB-INF\lib\spring-webmvc-3.2.9.RELEASE.jar
+WEB-INF\lib\weka.jar
+
+CSS files:
+resources\mytheme\css\main.css
+resources\mytheme\css\result.css
+
+JavaScript files:
+resources\mytheme\js\main.js
+resources\mytheme\js\jquery-1.11.3.js
+
+Images:
+resources\mytheme\images\dtree.png
+resources\mytheme\images\ivp.png
