@@ -1,4 +1,4 @@
-Application Running Steps:
+***Application Running Steps:
 
 Windows:
 1) Make 'New Folder' in 'Macintosh HD\Users' and name it as 'IsProject'.(C:\IsProject)
@@ -18,3 +18,8 @@ All other steps are same:
 8) Stop the server by the command : './shutdown.sh' in the terminal/cmd.
 
 Note: For windows, you need to change the code where path is hard-coded. The war file is generated to support Mac OS.
+
+***Application working screenshots
+![1](https://github.com/harshitshah436/game_prediction_Cricket/blob/master/screenshots/ui1.jpg)
+![2](https://github.com/harshitshah436/game_prediction_Cricket/blob/master/screenshots/ui2.jpg)
+![3](https://github.com/harshitshah436/game_prediction_Cricket/blob/master/screenshots/ui3.jpg)
